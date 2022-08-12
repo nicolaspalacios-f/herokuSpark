@@ -1,1 +1,1 @@
-web: java -jar target/mi-primera-app-1.0-SNAPSHOT.jar
+web: java -cp target/classes:target/dependency/* edu.escuelaing.arem.ASE.app.SparkWebApp
